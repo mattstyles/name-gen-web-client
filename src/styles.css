@@ -1,0 +1,26 @@
+
+
+/**
+ * Component includes
+ * ---
+ * @TODO this can/should be automated
+ */
+
+
+
+/**
+ * Base
+ * ---
+ * @TODO this should not be a permanent home
+ */
+
+:root {
+    --color: #404040;
+}
+
+body {
+    color: var( --color );
+    margin: 0;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: greyscale;
+}

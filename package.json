@@ -9,7 +9,8 @@
   },
   "config": {
     "port": 14320,
-    "dbpath": ".name-gen/names.lev"
+    "dbpath": ".name-gen",
+    "dbname": "names.lev"
   },
   "author": "Matt Styles",
   "repository": "git://github.com/Matt Styles/name-gen-client.git",

@@ -10,7 +10,7 @@
   },
   "config": {
     "port": 14320,
-    "dbpath": ".name-gen",
+    "dbpath": ".moniker",
     "dbname": "names.lev"
   },
   "author": "Matt Styles",

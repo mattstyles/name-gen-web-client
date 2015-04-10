@@ -1,4 +1,8 @@
-require( 'babel/register' );
+require( 'babel/register' )({
+    optional: [
+        'asyncToGenerator'
+    ]
+});
 
 var app = require( './lib/server' );
 var port = process.env.PORT || process.env.npm_package_config_port || 14320;
